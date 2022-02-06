@@ -1,0 +1,14 @@
+@media (min-width:768px) and (max-width:1024px) {
+    .forrespo{
+        grid-template-columns: 0;
+        width: 100%;
+         border: none;
+         display: block;
+    }
+    .first-div{
+        display: block;
+        width: 100%;
+        flex-direction: column;
+    }
+
+}
